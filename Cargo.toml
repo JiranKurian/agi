@@ -13,10 +13,10 @@ homepage = "https://github.com/JiranKurian/agi"
 description = "A complete package for Artificial General Intelligence"
 repository = "https://github.com/JiranKurian/agi"
 keywords = [
-    "cli"
-    "agi"
-    "ai"
-    "ml"
+    "cli",
+    "agi",
+    "ai",
+    "ml",
     "Artificial Intelligence"
 ]
 categories = ["library"]
