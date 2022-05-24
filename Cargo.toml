@@ -1,33 +1,8 @@
 [package]
 name = "agi"
 version = "0.0.1"
-edition = "2021"
+edition = "2022"
 description = "A complete package for Artificial General Intelligence"
 license = "Apache-2.0"
-
-include = [
-    "srs/**/*",
-    "Cargo.toml",
-    "README.md",
-    "LICENSE"
-]
-
-homepage = "https://github.com/JiranKurian/agi"
-
-repository = "https://github.com/JiranKurian/agi"
-keywords = [
-    "cli",
-    "agi",
-    "ai",
-    "ml",
-    "Artificial Intelligence"
-]
-categories = ["library"]
-
-[[bin]]
-name = "main"
-path = "src/main.rs"
-
-# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
