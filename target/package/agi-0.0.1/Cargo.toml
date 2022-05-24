@@ -32,4 +32,8 @@ categories = ["library"]
 repository = "https://github.com/JiranKurian/agi"
 resolver = "2"
 
+[[bin]]
+name = "main"
+path = "src/main.rs"
+
 [dependencies]

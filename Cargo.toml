@@ -2,6 +2,8 @@
 name = "agi"
 version = "0.0.1"
 edition = "2021"
+description = "A complete package for Artificial General Intelligence"
+license = "Apache-2.0"
 
 include = [
     "srs/**/*",
@@ -11,7 +13,7 @@ include = [
 ]
 
 homepage = "https://github.com/JiranKurian/agi"
-description = "A complete package for Artificial General Intelligence"
+
 repository = "https://github.com/JiranKurian/agi"
 keywords = [
     "cli",
@@ -21,7 +23,6 @@ keywords = [
     "Artificial Intelligence"
 ]
 categories = ["library"]
-LICENSE = "Apache 2.0"
 
 [[bin]]
 name = "main"
