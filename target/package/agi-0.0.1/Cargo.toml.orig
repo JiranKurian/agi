@@ -1,10 +1,8 @@
 [package]
 name = "agi"
-version = "0.0.2"
+version = "0.0.1"
 edition = "2021"
 description = "A complete package for Artificial General Intelligence"
 license = "Apache-2.0"
-
-repository = "https://github.com/JiranKurian/agi"
 
 [dependencies]
